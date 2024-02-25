@@ -1,3 +1,1 @@
-sklearn
-numpy == 1.242
 
